@@ -1,0 +1,5 @@
+﻿  BasicDataTypes.cpp
+G:\Cpp\BasicDataTypes\BasicDataTypes.cpp(13,11): warning C4101: 'f': unreferenced local variable
+G:\Cpp\BasicDataTypes\BasicDataTypes.cpp(11,9): warning C4101: 'i': unreferenced local variable
+G:\Cpp\BasicDataTypes\BasicDataTypes.cpp(12,10): warning C4101: 'ch': unreferenced local variable
+  BasicDataTypes.vcxproj -> G:\Cpp\BasicDataTypes\x64\Debug\BasicDataTypes.exe
